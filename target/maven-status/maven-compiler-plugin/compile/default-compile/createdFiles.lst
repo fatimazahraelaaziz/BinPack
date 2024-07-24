@@ -1,0 +1,11 @@
+org/example/Lag$ConsumerGroupDescription.class
+org/example/Main.class
+org/example/BinPackState.class
+org/example/MemberDescription.class
+org/example/ConsumerGroupDescription.class
+org/example/Consumer.class
+org/example/Partition.class
+org/example/Lag.class
+org/example/BinPackLag.class
+org/example/ArrivalProducer.class
+org/example/Workload.class
